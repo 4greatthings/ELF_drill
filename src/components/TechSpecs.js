@@ -39,3 +39,4 @@ export class TechSpecs extends Component {
 }
 
 export default TechSpecs
+
